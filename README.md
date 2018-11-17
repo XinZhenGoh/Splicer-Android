@@ -5,8 +5,7 @@ Simple and easy:-
 -Open this project using Unity.
 -Run using Android simulator
 
-Here's the link to the screenshots
-: #
+Here are the screenshots of the game.
 
 Author: Xin Zhen Goh (Ray)
 
